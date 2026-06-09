@@ -23,7 +23,3 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,nuxt,nodejs,express,postgres,vite,webpack,git,github,figma,cypress,tailwind,npm" />
-</p>
